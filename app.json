@@ -1,0 +1,16 @@
+{
+  "name": "hjsadhscbsa",
+  "description": "good good study",
+  "keywords": [
+    "dayday"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "4fc595b5-9429-4ddc-a373-9cd95b40763a"
+    }
+  },
+  "website": "https://github.com/Milkpowde/splender",
+  "repository": "https://github.com/Milkpowde/splender",
+  "stack": "container"
+}
